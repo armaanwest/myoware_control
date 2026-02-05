@@ -45,6 +45,3 @@ The Arduino reads analog EMG signals and outputs processed values for monitoring
 - Foundation for prosthetic motor control
 
 ---
-
-## Project Structure
-
